@@ -16,6 +16,14 @@ ______________
 •	Survey Tool: Google Forms  
 •	Visualization Tool: Jupyter Notebook  
 •	Version Control: Git & GitHub  
+
+______________
+### 🔗 Useful Links for Reference
+•	Cleaned Jamb Data: <a href="/JAMB project/cleaned_jamb_data.csv">Link (csv)</a><br/>
+•	Comprehensive Report: <a href="/JAMB project/Comprehensive report.pdf">Link (pdf)</a><br/>
+•	Jamb Exam Experience Survey (2020 - 2025): <a href="/JAMB project/JAMB Exam Experience Survey (2020–2025)  (Responses) - Form responses 1.csv">Link</a><br/>
+•	Jamb Project Documentation: <a href="/JAMB project/Jamb Project Documentation.docx">Link (docx)</a><br/>
+•	Jupyter Notebook: <a href="/JAMB project/Jamb.ipynb" style="color: 'red'; text-decoration: none">Link</a><br/>
 ______________
 ### 📋 Data Collection  
 Data was collected via a structured online survey distributed to individuals who wrote the JAMB examination between 2020 and 2025. The survey captured:  
