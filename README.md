@@ -26,7 +26,7 @@ Data was collected via a structured online survey distributed to individuals who
 •	Exam experience (score, attempts, perceived difficulty)  
 •	Support systems (mentorship, online resources)  
 ______________
-### KEY INSIGHTS  
+### Key insights   
 **✅ 1. Pass vs. Fail Rate Distribution**  
 Using a threshold score of 200 to classify exam outcomes, 78.2% of students were categorized as having passed the exam, while 21.8% fell below the benchmark and were classified as having failed.  
 **Insight:** Although a large majority of respondents passed the exam, the fact that over one in five students failed indicates that a significant subset of students still struggles to meet the minimum admission criteria. This suggests a need for deeper attention toward educational inequality, study patterns, and support systems, especially among underserved student populations.  
